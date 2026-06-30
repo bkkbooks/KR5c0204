@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5c0204/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5c0204/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天心正法修真道場設醮儀
+  date: '2015-08-29 00:54:23.398480'
+  source:
+    repository: kanripo
+    path: KR5c0204
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0204_000-ZTDZ.yaml, hash: 'sha256:dc32cffc1d6ae854accba6a2056419d4de1c77407a3220d4187eaf862238fbea'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0204_000-ZTDZ.markers.yaml, hash: 'sha256:7772214f623e9c879b3974fc366e615a03d316791305159c0743b7015938b5a5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0204_SJB_000-180323b
+    span:
+    - body
+    - 0
+    - 3319
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:3726bf63aa86ef18a960e3c9910219dfcaa5a1ca41790571c9bda381e50c75b0
