@@ -508,6 +508,7 @@ markers:
   - {type: line-break, offset: 1369, content: '', id: KR5c0204_HFL_000-005b06}
   - {type: indent, offset: 1369, content: 　　　, id: KR5c0204_krp_000-bkkind13}
   - {type: punctuation, offset: 1378, content: (, id: KR5c0204_krp_000-bkkpn1}
+  - {type: voice, offset: 1378, length: 9, name: note, id: n1}
   - {type: punctuation, offset: 1383, content: /, id: KR5c0204_krp_000-bkkpn2}
   - {type: punctuation, offset: 1387, content: ), id: KR5c0204_krp_000-bkkpn3}
   - {type: 'kr:newline', offset: 1387, content: '
@@ -658,6 +659,7 @@ markers:
   - {type: line-break, offset: 1774, content: '', id: KR5c0204_HFL_000-007a05}
   - {type: indent, offset: 1774, content: 　　　, id: KR5c0204_krp_000-bkkind18}
   - {type: punctuation, offset: 1783, content: (, id: KR5c0204_krp_000-bkkpn4}
+  - {type: voice, offset: 1783, length: 10, name: note, id: n2}
   - {type: substitution, offset: 1785, original: 黙, replacement: 默, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20742}}
   - {type: punctuation, offset: 1788, content: /, id: KR5c0204_krp_000-bkkpn5}
   - {type: punctuation, offset: 1793, content: ), id: KR5c0204_krp_000-bkkpn6}
@@ -1013,6 +1015,7 @@ markers:
       ', id: KR5c0204_krp_000-bkkkrnewl213}
   - {type: line-break, offset: 2773, content: '', id: KR5c0204_HFL_000-010b05}
   - {type: punctuation, offset: 2783, content: (, id: KR5c0204_krp_000-bkkpn7}
+  - {type: voice, offset: 2783, length: 13, name: note, id: n3}
   - {type: punctuation, offset: 2790, content: /, id: KR5c0204_krp_000-bkkpn8}
   - {type: punctuation, offset: 2796, content: ), id: KR5c0204_krp_000-bkkpn9}
   - {type: 'kr:newline', offset: 2796, content: '
@@ -1248,4 +1251,4 @@ markers:
 
       ', id: KR5c0204_krp_000-bkkkrnewl263}
   back: []
-hash: sha256:740477c99fe9ed79aaef4c9e7a16e401ba76870ddc7b3ffbafea93c33364f550
+hash: sha256:a13d556107dac4311c4056dde433b4059a2159756ced20864202ef11f517f0d8
